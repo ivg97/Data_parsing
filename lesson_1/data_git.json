@@ -1,0 +1,53 @@
+{
+    "name": "ivg97",
+    "repository": [
+        {
+            "BelStok": {
+                "full_name": "ivg97/BelStok",
+                "url": "https://api.github.com/repos/ivg97/BelStok"
+            }
+        },
+        {
+            "Data_parsing": {
+                "full_name": "ivg97/Data_parsing",
+                "url": "https://api.github.com/repos/ivg97/Data_parsing"
+            }
+        },
+        {
+            "Django-blog": {
+                "full_name": "ivg97/Django-blog",
+                "url": "https://api.github.com/repos/ivg97/Django-blog"
+            }
+        },
+        {
+            "flask_portfolio": {
+                "full_name": "ivg97/flask_portfolio",
+                "url": "https://api.github.com/repos/ivg97/flask_portfolio"
+            }
+        },
+        {
+            "GB_algoritms": {
+                "full_name": "ivg97/GB_algoritms",
+                "url": "https://api.github.com/repos/ivg97/GB_algoritms"
+            }
+        },
+        {
+            "GB_python": {
+                "full_name": "ivg97/GB_python",
+                "url": "https://api.github.com/repos/ivg97/GB_python"
+            }
+        },
+        {
+            "my-social-network": {
+                "full_name": "ivg97/my-social-network",
+                "url": "https://api.github.com/repos/ivg97/my-social-network"
+            }
+        },
+        {
+            "vk_bot": {
+                "full_name": "ivg97/vk_bot",
+                "url": "https://api.github.com/repos/ivg97/vk_bot"
+            }
+        }
+    ]
+}
