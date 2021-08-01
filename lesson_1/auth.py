@@ -1,4 +1,4 @@
 
-password = 'my_password'
-login = 'my_login'
-token = 'my_token'
+password = 'password'
+login = 'login'
+token = 'token'
